@@ -31,4 +31,4 @@ Launch the `.launch` file.
 ![](ros-demo-launch-talker-listener.gif)
 
 ## Blog post
-Read [Creating a ROS publisher and subscriber (Python)](https://blog.roboticsprogramming.dev/2020/10/creating-ros-publisher-subscriber-python.html).
+Read [Creating a ROS publisher and subscriber (Python)](https://blog.roboticsprogramming.dev/2020/11/creating-ros-publisher-subscriber-python.html).
